@@ -90,8 +90,8 @@ git fetch --all
 git branch -a
 ```
 
-Uma branch tem uma finalidade só.
-Não trabalhe o arquivo 04 estando na branch do arquivo 07 — o histórico deixa de contar a verdade sobre o que você fez.
+Uma branch tem uma finalidade só(finalidade do cartiado).
+Não trabalie o arkivo 04 estando na branch do arquivo 07 — o histórico deixa de contar a verdade sobre o que você fez.
 
 ---
 
